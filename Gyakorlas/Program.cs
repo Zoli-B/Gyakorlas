@@ -11,7 +11,7 @@ namespace Feladat
     {
         static void Main(string[] args)
         {
-            /*// Első feladat
+            // Első feladat
             BekeroEsKiir();
             // Második feladat       
             ParosEllenorzes();
@@ -33,7 +33,7 @@ namespace Feladat
             Legnagyobb();
             //Tizenegyedik feladat
             Atlag();
-            //Tizenkettedik feladat*/
+            //Tizenkettedik feladat
             LetterNumber();
             //Tizenharmadik feladat
             Palindrom();
